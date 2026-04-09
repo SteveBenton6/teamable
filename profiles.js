@@ -1,2 +1,2 @@
-const newProfiles = []
-const newProfile = ""
+const newProfiles = [];
+const newProfile = {};
